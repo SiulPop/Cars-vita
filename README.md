@@ -5,9 +5,7 @@ A game based off of a Formula 1 game on an old flipphone i have.Unrelated to the
 
 # Issues--
 
--When you press Quit, the game freezes, I've tested and apparently it's some problem with the code. I don't think I'll fix it, it's a minor problem.
-
--There is a tool to "get bigger" that I haven't been able to implement, it doesn't bother the gameplay at all, but I might add it in a future update.
+"
 
 # How to install--
 
