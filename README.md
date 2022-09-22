@@ -5,7 +5,7 @@ A game based off of a Formula 1 game on an old flipphone i have.Unrelated to the
 
 # Issues--
 
-"
+The problems have already been fixed
 
 # How to install--
 
