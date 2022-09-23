@@ -21,4 +21,6 @@ That's all for now, thanks for the support
 
 Original game: https://cst1229.itch.io/cars
 
+Video Test: https://www.youtube.com/watch?v=XZ82MZAcKg8
+
 P.S. THE GAME IS NOT EXPORTED BY YOYO LOADER IF YOU THINK SO, CHECK THE .VPK IF YOU WANT TO CHECK IT.
